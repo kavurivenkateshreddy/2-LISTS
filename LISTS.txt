@@ -1,0 +1,54 @@
+<html>
+<head>
+<title> LIST'S IN HTML </title>
+</head>
+<body>
+<h1><center><font color="red">LIST'S </font><center></h1
+<p>---> In HTML lists are used to specify the list of information</p>
+<p>---> All the list elements contains one or more list elements</p>
+<p>---> It was a CONTAINER TAG it was represanted by (li></p>
+<p>---> there are TWO types of LIST </p>
+<P><h3><font color="blue">1.UNORDERED LIST</font></h3></p>
+<P>---> In unordered list the all list items are mark with bullets</p>
+<p>---> it is also called as black list</P>
+<p>---> The UNORDERED LIST (ul) start and end with (ul> & (/ul> </p>
+<P>---> The LIST ITEM (li) start and end with (li> & (/li> </p>
+<p> EXAMPLES for unordered list <b>: circle,disk,square,none</b></p>
+<p><h5>SYNTAX : for unordered list</h5></p>
+<p><h5>EXAMPLES : 1</h5> </p>
+<ul type="circle"><b>
+<li>CIRCLES</li>
+<li>DISK</li>
+<li>SQUARE</li>
+<li>NONE</li>
+</ul>
+<p><h5>EXAMPLES : 2</h5></p>
+<ul type="none">
+<li>CIRCLE</li>
+<li>DISK</li>
+<li>SQUARE</li>
+<li>NONE</li>
+</b></ul>
+<P><h3><font color="blue">2.ORDERED LIST</font></h3></p>
+<P>---> In order list LIST ITEMD (li) is marked with numbers by default</p>
+<p>---> Itis knowen as NOMBER LIST also</p>
+<p>---> The ORDERED LIST (ol) start and end with (ol> & (/ol> </p>
+<P>---> The LIST ITEM (li) start and end with (li> & (/li> </p>
+<p> EXAMPLES for unordered list <b>: Numbers,Upper and lower case Alphabets,Roman Numbers</b></p>
+<p><h5>SYNTAX : for ordered list</h5></p>
+<p><h5>EXAMPLES : 1</h5> </p>
+<ol type="1"><b>
+<li>NUMBER</li>
+<li>UPPER CASE ALPHABES</li>
+<li>LOWER CASE ALPHABITS</li>
+<li>ROMAN NUMBERS</li>
+</ul></p>
+<p><h5>EXAMPLES : 2</h5></p>
+<ol type="A">
+<li>NUMBERS</li>
+<li>UPPER CASE ALPHABES</li>
+<li>LOWER CASE ALPHABITS</li>
+<li>ROMAN NUMBERS</li>
+</b></ol>
+</body>
+</html>
