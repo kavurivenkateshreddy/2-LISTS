@@ -1,1 +1,1 @@
-# DAY-2-LISTS
+# 2-LISTS
